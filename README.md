@@ -1,5 +1,9 @@
 # common-sensors
 
+________________________________
+**Note:** This is a reupload of the common-sensors repo that was previously found at https://github.com/JenniferBuehler/common-sensors but seems to be removed now. The Dockerfile from the original repo is not contained.
+________________________________
+
 A collection of commonly used sensors: urdf files and a few tools
 
 This package includes a variety of sensor models imported from different ROS packages available throughout the web.
@@ -41,7 +45,7 @@ Add the git repository to your catkin workspace:
 
 ```
 cd <your-catkin-ws>/src
-git clone https://github.com/JenniferBuehler/common-sensors.git
+git clone https://github.com/dairal/common-sensors
 ```
 
 *Hint*: Alternatively to cloning the repositry directly into the catkin source folder, you
